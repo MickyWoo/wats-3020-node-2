@@ -1,8 +1,8 @@
 /*
-Description:
-Input:
-Output:
-Usage: 
+Description: program works similarly to the `1-fizzbuzz` program.
+Input: string 
+Output: string + fizz. buzz, fizzbuzz on 3,5,15
+Usage: 2-fizzbuzz-fun
 */
 
 // get input using getargs
