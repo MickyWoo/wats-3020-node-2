@@ -45,7 +45,7 @@ charArr.sort(function(a,b){
 
 })
 
-for (let row of charArr){
+
   // console.log(charArr);  this works
 
   for (let i = 0; i < charArr.length; i++){
@@ -53,5 +53,5 @@ for (let row of charArr){
   }
 }
 
-}
+
 
